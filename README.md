@@ -1,0 +1,4 @@
+ProjectSilver
+=============
+
+Project initialized 
